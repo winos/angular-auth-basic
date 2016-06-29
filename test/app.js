@@ -8,7 +8,7 @@
   function Run (AuthorizerService) {
 
     var authUser = {
-      username:'dawin',
+      username:'jhonDoe',
       role:'admin'
     }
 
