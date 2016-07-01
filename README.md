@@ -3,7 +3,7 @@
 ## Installing it
 
 **From CDN**
-```
+```js
 <script src="https://cdn.rawgit.com/winos/angular-auth-basic/master/build/js/auth-basic.min.js"></script>
 ```
 ## How to use
